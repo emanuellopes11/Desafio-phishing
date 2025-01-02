@@ -14,3 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - URL para clone: http://www.facebook.com
+
+- ### Resutados
+
+![Alt text](./password.jpg "Optional title")
